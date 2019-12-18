@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/v-lodeva/f4658a55-0ee8-4456-acc1-8b676f46f94f/949b8a96-5ad7-45be-9106-16ef55ccae33/_apis/work/boardbadge/35209ae8-ea54-48e0-903d-0472fa11d54d)](https://dev.azure.com/v-lodeva/f4658a55-0ee8-4456-acc1-8b676f46f94f/_boards/board/t/949b8a96-5ad7-45be-9106-16ef55ccae33/Microsoft.RequirementCategory)
 # Visual Studio App Center Sample App for Android 
 The Android application in this repository and its corresponding tutorials will help you quickly and easily onboard to Visual Studio App Center.
 
